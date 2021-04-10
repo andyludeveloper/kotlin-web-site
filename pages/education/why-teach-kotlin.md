@@ -1,12 +1,13 @@
 ---
 layout: default-v2
-title: Why Teach Kotlin
+title: 為什麼要教 Kotlin
 ---
 
-# Why Teach Kotlin
+# 為什麼要教 Kotlin
 
-### The Language of Android ###
-Revamp your course with the first-choice language for [Android development](https://kotlinlang.org/docs/reference/android-overview.html). Kotlin has natively supported the mobile development workflow and associated tools since 2017.
+### 安卓(Android)的開發語言 ###
+使用[Android development](https://kotlinlang.org/docs/reference/android-overview.html)首選的開發語言來改善你的課程。
+自從2017年， Kotlin 已經開始支持原生的行動開發工作流程以及相關工具。
 
 > Kotlin is basically becoming the language of Android.
 > {:.kto-quote__text} 
